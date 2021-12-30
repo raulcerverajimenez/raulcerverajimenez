@@ -1,7 +1,7 @@
-### Hi amigos 👋
+### Hola amigos 👋
 
 
-**raulcerverajimenez/raulcerverajimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soy Raúl Cervera Jiménez**, he estudiado DAM y quiero abrirme camino en el mundo de la progamación.
 
 Tecnologias:
 
